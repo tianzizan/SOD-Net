@@ -1,9 +1,7 @@
-# S\textsuperscript{2}OD-Net: Spectral-Spatial Orthogonal Decoupling Network for Unsupervised 3D Medical Image Registration
-
-
+# S²OD-Net: Spectral-Spatial Orthogonal Decoupling Network for Unsupervised 3D Medical Image Registration
 ##  Introduction
 
-The official implementation of S\textsuperscript{2}OD-Net.
+The official implementation of S²OD-Net.
 
 ###  News
 *   **[2026-01-01]** The paper is currently under review. The code and pretrained models will be released **immediately upon acceptance**.
@@ -22,7 +20,7 @@ IXI [[link]](https://surfer.nmr.mgh.harvard.edu/pub/data/) [[freesurfer link]](h
 Note that we use the processed IXI dataset provided by freesurfer.
 
 
-### 🖼️ Architecture
+### Architecture
 
 > The architecture of S²OD-Net. It features a dual-stream encoder and a recursive decoder integrated with CFSA and LSConv3D modules.
 
